@@ -16,7 +16,7 @@
 		"rte"
 	],
 	"dependencies": {
-		"jodit": "^3.5.4"
+		"jodit": "git://github.com/SignumSoftwarePriv/jodit.git#TS41"
 	},
 	"peerDependencies": {
 		"react": "~0.14 || ^15.0.0 || ^16.0.0",
